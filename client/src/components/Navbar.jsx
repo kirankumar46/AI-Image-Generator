@@ -35,7 +35,7 @@ const Navbar = () => {
   console.log(path);
   return (
     <Container>
-      GemAI
+      Imagify
       {path[1] === "post" ? (
         <Button
           text="Explore Posts"
